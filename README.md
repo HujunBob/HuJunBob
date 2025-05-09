@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=muguilin&show_icons=true&icon_color=ff01bd&text_color=718096&hide_title=true" />
 
-### 🏡：[www.muguilin.com](http://www.muguilin.com)
+### 🏡：[github.com/HujunBob/](https://github.com/HujunBob/)
 
-###  📚：[blog.csdn.net](https://blog.csdn.net/muguli2008)
+###  📚：[blog.csdn.net](https://blog.csdn.net/u014651560)
 
 ### 🚀：[www.npmjs.com](https://www.npmjs.com/~muguilin)
 
