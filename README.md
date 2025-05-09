@@ -6,7 +6,7 @@
 
 ###  📚：[blog.csdn.net](https://blog.csdn.net/u014651560)
 
-### 🚀：[www.npmjs.com](https://www.npmjs.com/~muguilin)
+### 🚀：[deepseek]([https://www.npmjs.com/~muguilin](https://chat.deepseek.com/))
 
 ### 📊：Languages and Tools
 
